@@ -1,0 +1,120 @@
+{
+    "states": [
+        {
+            "state": "Gujarat",
+            "cities": [
+                {
+                    "city": "Ahmedabad",
+                    "dealerships": [
+                        {
+                            "companyName": "Lakhia Bikes",
+                            "address": "Nr HP Petrol Pump, Nr Sanyas Ashram, Ellis bridge, Ahmedabad, Gujarat",
+                            "contactNumber": "9825005512",
+                            "location": "https://maps.app.goo.gl/xfe5rwUoMiGxD89p7"
+                        },
+                        {
+                            "companyName": "Naks EV",
+                            "address": "Haridarshan Society, New India colony, Nava Naroda, Ahmedabad, Gujarat.",
+                            "contactNumber": "9409137849",
+                            "location": "https://maps.app.goo.gl/jcipBmfP4iSYjk3x9"
+                        },
+                        {
+                            "companyName": "Om Sai Electric vehicle",
+                            "address": "near sanskruti flat, nr baliyadev mandir, village bopal, taluka daskroi, Ahmedabad, Gujarat.",
+                            "contactNumber": "9624073900",
+                            "location": "https://maps.app.goo.gl/UemsKooNz3NmCFKa7"
+                        },
+                        {
+                            "companyName": "Magnet Motors",
+                            "address": "B17/A, Sun South Street , Fire Station Road, Bopal, Near Aarvi 156, South Bopal",
+                            "contactNumber": "8780725149",
+                            "location": "https://g.co/kgs/VXkHoF5"
+                        }
+                    ]
+                },
+                {
+                    "city": "Rajkot",
+                    "dealerships": [
+                        {
+                            "companyName": "Coming Soon",
+                            "address": "",
+                            "contactNumber": "",
+                            "location": ""
+                        }
+                    ]
+                },
+                {
+                    "city": "Vadodara",
+                    "dealerships": [
+                        {
+                            "companyName": "Coming Soon",
+                            "address": "",
+                            "contactNumber": "",
+                            "location": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "Delhi",
+            "cities": [
+                {
+                    "city": "Coming Soon",
+                    "dealerships": [
+                        {
+                            "companyName": "",
+                            "address": "",
+                            "contactNumber": "",
+                            "location": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "Karnataka",
+            "cities": [
+                {
+                    "city": "Coming Soon",
+                    "dealerships": [
+                        {
+                            "companyName": "",
+                            "address": "",
+                            "contactNumber": "",
+                            "location": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "Maharashtra",
+            "cities": [
+                {
+                    "city": "Mumbai",
+                    "dealerships": [
+                        {
+                            "companyName": "Coming Soon",
+                            "address": "Contact us to prebook",
+                            "contactNumber": "",
+                            "location": ""
+                        }
+                    ]
+                },
+                {
+                    "city": "Pune",
+                    "dealerships": [
+                        {
+                            "companyName": "Coming Soon",
+                            "address": "Contact us to prebook",
+                            "contactNumber": "",
+                            "location": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+  }
+  
